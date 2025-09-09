@@ -17,10 +17,10 @@
 ---
 
 ## Estrutura do Projeto
-├── index.html # Estrutura da pagina html
-├── style.css  # Estilos da aplicaçao
-├── app.js     # Logica do sorteio
-├── assets/    # Imagens e ícones
+- ├── index.html # Estrutura da pagina html
+- ├── style.css  # Estilos da aplicaçao
+- ├── app.js     # Logica do sorteio
+- ├── assets/    # Imagens e ícones
 
 
 ---
